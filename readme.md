@@ -1,9 +1,7 @@
 ### Hello, there  
-  [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
   <img src="https://komarev.com/ghpvc/?username=luckycstar&label=Profile%20views&color=0e75b6&style=flat" alt="luckycstar" />  
 
-  [gmail]: mailto:luckycstar55@gmail.com
   [telegram]: https://t.me/luckycstar555   
      
   Hi, I'm 🥇[luckycstar](https://t.me/luckycstar555/)🥇, As a Senior Frontend Developer, with outstanding experience in various fields, such as web and mobile design.
@@ -23,7 +21,6 @@ I had already built so many Websites with the mentioned skill.
 ### Connect with me:
 
 - 💬 Telegram : [@luckycstar555](https://t.me/luckycstar555)
-- 📧 Email : luckycstar55@gmail.com
 
 ### Languages and Tools:
  
