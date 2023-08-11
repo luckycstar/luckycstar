@@ -3,25 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=luckycstar&label=Profile%20views&color=0e75b6&style=flat" alt="luckycstar" />  
 
   [telegram]: https://t.me/luckycstar555   
-     
-  Hi, I'm 🥇[luckycstar](https://t.me/luckycstar555/)🥇, As a Senior Frontend Developer, with outstanding experience in various fields, such as web and mobile design.
 
-My major skills are web and mobile application front-end development. I have good experience with Vue and Nuxt, React, Angular, Flutter, etc.
-
-I have developed sites using PHP, Laravel, WordPress, Codeigniter, and much more.
-
-Especially I have rich experience with the latest Javascript frameworks such as React, Angular and Vue.
-
-I had already built so many Websites with the mentioned skill.     
-   
 <div>
   <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320"/>
 </div>
   
-### Connect with me:
-
-- 💬 Telegram : [@luckycstar555](https://t.me/luckycstar555)
-
 ### Languages and Tools:
  <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -175,6 +161,11 @@ I had already built so many Websites with the mentioned skill.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
   </a>
 </p>
+
+### Connect with me:
+
+- 💬 Telegram : [@luckycstar555](https://t.me/luckycstar555)
+
 
 ### 💗 My Favorites Techs:
 
